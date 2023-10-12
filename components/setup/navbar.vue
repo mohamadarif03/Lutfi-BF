@@ -4,12 +4,12 @@
       class="py-3 px-7 bg-[#79AC78] text-[#D0E7D2] font-semibold tracking-wide flex items-center justify-between"
     >
       <div>
-        <img
+        <!-- <img
           src="images/logo.jpg"
           width="60"
           class="rounded-full"
           alt="Gambar"
-        />
+        /> -->
       </div>
       <div>
         <nuxt-link
